@@ -1,0 +1,10 @@
+{
+  "name": "banyensao",
+  "version": "1.0.0",
+  "description": "Ứng dụng quản lý bán yến sào với giao diện Fluent 2 và lưu trữ cục bộ.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
